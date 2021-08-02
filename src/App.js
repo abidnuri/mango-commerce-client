@@ -29,7 +29,6 @@ function App() {
         <Route path="*">
           <NotFound />
         </Route>
-
       </Switch>
       <Footer />
     </Router>

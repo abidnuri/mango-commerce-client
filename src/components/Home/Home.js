@@ -1,6 +1,5 @@
 import React from 'react';
-import Footer from '../Shared/Footer/Footer';
-import Navbar from '../Shared/Header/Navbar/Navbar';
+import './Home.css'
 
 const Home = () => {
     return (
